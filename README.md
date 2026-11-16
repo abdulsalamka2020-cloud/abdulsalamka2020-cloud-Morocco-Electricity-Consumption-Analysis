@@ -1,4 +1,4 @@
-# abdulsalamka2020-cloud-Morocco-Electricity-Consumption-Analysis
+
 # Morocco Electricity Consumption and Environmental Factors Analysis
 **AnalystLab Africa – Experience Lab Internship – Week 5 
 
